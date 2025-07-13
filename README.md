@@ -1,7 +1,7 @@
 [![MasterHead](https://media1.tenor.com/m/jzfwbc7N0zMAAAAd/ldr-sensor-jeem2.gif)
 <h1 align="center">Hi 👋, I'm Aneesh Thakre</h1>
 <h3 align="center">A passionate a RTL Verification Engineer from India</h3>
-<img align = "center" alt="coding" width="400" src="https://media.tenor.com/iNk-1osmqAsAAAAi/arduino.gif">
+<img align = "right" alt="coding" width="400" src="https://media.tenor.com/iNk-1osmqAsAAAAi/arduino.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakreaneesh&label=Profile%20views&color=0e75b6&style=flat" alt="thakreaneesh" /> </p>
