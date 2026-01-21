@@ -22,5 +22,3 @@
 <a href="https://instagram.com/aneesh_024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aneesh_024" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aneesh_024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneesh_024" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakreaneesh&show_icons=true&locale=en&layout=compact" alt="thakreaneesh" /></p>
